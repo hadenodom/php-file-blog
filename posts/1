@@ -1,0 +1,2 @@
+<h3>This blog engine was written in PHP and doesn't use any databases</h3>
+<p>Which, as it happens, is a REALLY bad idea, but some poor sap somewhere might want something like that, so I went ahead and wrote it.  It has the (only) benefit of being really simple and easy for a PHP beginner to hack on.  </p>

@@ -1,0 +1,3 @@
+<h3> Finally on Github </h3>
+<p>I showed this to my friends months ago, but I finally decided to actually put it up on github so the whole world could see my shamefully bad idea and good coding.  You can write yourself a script to ftp to your server and upload posts.  Posts should go in the "posts" folder and be named "1","2", "3", ect, with no ".txt", or any file extension. Ideally, your script should search the folder and find the most recent file, add one to that number, rename whatever file you fed it to that number, and upload it to the "post" folder.  
+</p>
