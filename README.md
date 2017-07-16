@@ -1,7 +1,5 @@
 # PHP File Blog
 
-=============
-
 Blog engine written in PHP, using plaintext csv files instead of databases to store posts.
 
 This is a very basic product.  I did this within the space of about a day, in 2013, when I was learning PHP.
